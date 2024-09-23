@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ローカル用の初期データ作成スクリプト
+app/seed/route.ts
+app/lib/placeholder-data.ts
