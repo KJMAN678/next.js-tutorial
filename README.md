@@ -11,10 +11,10 @@ pnpm install
 # ローカルサーバーの立ち上げ
 pnpm dev
 
+http://localhost:3000/seed
+
 # DB初期データ作成(.env ファイルの設定必要)
 pnpm run dev
-
-http://localhost:3000/seed
 ```
 
 - 下記の２つのファイルは除いた
